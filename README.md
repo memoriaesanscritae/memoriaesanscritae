@@ -1,16 +1,35 @@
-## Hi there 👋
+<!DOCTYPE html>
+<html>
 
-<!--
-**memoriaesanscritae/memoriaesanscritae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<head>
+<title>Memoriae Sanscritae</title>
+</head>
 
-Here are some ideas to get you started:
+<body>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h1>MEMORIAE SANSCRITAE</h1>
+
+<p>
+Philosophia · Ritus · Textus · Traditio
+</p>
+
+<h2>Welcome</h2>
+
+<p>
+A public archive documenting Sanskrit philosophy,
+Vedic ritual procedures,
+texts,
+and traditional sources.
+</p>
+
+<ul>
+<li>Advaita</li>
+<li>Viśiṣṭādvaita</li>
+<li>Dvaita</li>
+<li>Śaiva Siddhānta</li>
+<li>Sandhyā Vandana</li>
+</ul>
+
+</body>
+
+</html> 
